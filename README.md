@@ -26,7 +26,7 @@ Lena's folder contains the databases on **Parks** and **Art**. Vaishu's folder c
 
 [City of Pittsburgh Bridges](https://data.wprdc.org/dataset/city-of-pittsburgh-bridges)
 
-*This dataset records every bridge in the City of Pittsburgh, including images, year built and year rehabbed*
+*This dataset records every bridge in the City of Pittsburgh, including images, year built and year rehabbed.*
 
 [Greenways](https://data.wprdc.org/dataset/greenways)
 
